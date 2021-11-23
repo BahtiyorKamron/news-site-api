@@ -1,0 +1,5 @@
+http://localhost:1889/categories?lang=uz  - kategorylarni filterlab olish
+http://localhost:1889/categories - barcha kategorylarni olish
+http://localhost:1889/register - registratsiyadan o'tish
+http://localhost:1889/login - login qilish
+http://localhost:1889/news?lang=uz  - news larni chiqarish
